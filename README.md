@@ -20,6 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=scotchpolanski&show_icons=true&locale=en&theme=radical" alt="scotchpolanski" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=scotchpolanski&theme=radical" alt="scotchpolanski" /></p>
-
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=f0596b25-da7f-4f42-bb4c-6aa04cd7695e&theme=tokyonight)
