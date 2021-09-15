@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Scotch</h1>
-<h3 align="center">A (ex) C++ developer from Germany.</h3>
+<h3 align="center">A C++ developer from Germany.</h3>
 
 
-- 🌱 I’m currently learning **Java**, **Javascript**, **Network Basics**, **CSS**
+- 🌱 I’m currently learning **Java**, **Javascript**
 
-- 💬 Ask me about **C++**, **Java**, **MySQL**, **SQLite**, **IT-Security**
+- 💬 Ask me about **C++**
 
 - 👾 Discord: **Scotch#5627**
 
