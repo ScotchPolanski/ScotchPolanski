@@ -6,6 +6,8 @@
 
 - 💬 Ask me about **C++**
 
+- 🔭 I’m currently working on **Multimedia Home Manager**
+
 - 👾 Discord: **Scotch#5627**
 
 - 👨🏽‍💻Note: **Programming comments only in german, i am not responsible for my repositories and statements, don't share my repositories without the link to my repositories!**
