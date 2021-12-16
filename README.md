@@ -2,11 +2,11 @@
 <h3 align="center">A C++ developer from Germany.</h3>
 
 
-- 🌱 I’m currently learning **Java**, **Javascript**
+- 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **C++**
+- 💬 Ask me about **C++**, **GTA5 external things**
 
-- 🔭 I’m currently working on **Multimedia Home Manager**
+- 🔭 I’m currently working on **GTA5 external cheat**, **RDR2:O external cheat**
 
 - 👾 Discord: **Scotch#5627**
 
